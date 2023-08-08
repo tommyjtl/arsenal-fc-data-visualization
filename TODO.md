@@ -1,5 +1,11 @@
 # To-do
 
 - [ ] Cleaner data structure
-- [ ] Supply which position the player plays in to the json file from [Transfermarkt](https://rapidapi.com/apidojo/api/transfermarket)
+- [ ] Supply more information of each player from [Transfermarkt](https://rapidapi.com/apidojo/api/transfermarket)'s API, such as:
+  - position the player plays
+  - nationality
+  - passes
+  - goals
+  - assists
+  - appearances
 - [ ] Add more examples
