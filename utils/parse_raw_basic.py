@@ -23,9 +23,9 @@ soup = BeautifulSoup(html_content, "html.parser")
 table = soup.find('table')
 trs = table.find_all('tr', attrs={'class': 'filter-row'})
 
-# ignore non-current players for now
+# # ignore non-current players for now
 # additional_trs = table.find_all('tr', attrs={'class': 'bg_grey'})
-# concate trs and additional_trs
+# # concate trs and additional_trs
 # trs = trs + additional_trs
 
 players = {

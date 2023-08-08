@@ -83,6 +83,26 @@ As appeared in the `./data/players_by_number.json` file, this file contains the 
 }
 ```
 
+### Players by season
+
+As appeared in the `./data/players_by_season.json` file, this file contains how many seasons a player has played. Each key is the name of the player, and each player has the following data structure:
+
+```json
+{
+  "Thierry Henry": [
+    "11/12",
+    "99/00",
+    "00/01",
+    "01/02",
+    "02/03",
+    "03/04",
+    "04/05",
+    "05/06",
+    "06/07"
+  ]
+}
+```
+
 ## Acknowledgements
 
 - All data in this repository is scraped from [Transfermarkt](https://www.transfermarkt.com/).
