@@ -105,4 +105,4 @@ As appeared in the `./data/players_by_season.json` file, this file contains how 
 
 ## Acknowledgements
 
-- All data in this repository is scraped from [Transfermarkt](https://www.transfermarkt.com/).
+- All data in this repository is scraped from the internet, sources used is located in [sources.md](./raw/source.md).
