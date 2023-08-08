@@ -1,6 +1,6 @@
 # Arsenal FC Data Visualization
 
-Exploration of data visualization for Arsenal FC. <a>#COYG</a>
+Some structured dataset and data visualizations for Arsenal FC. <a>#COYG</a>
 
 ```shell
 .
