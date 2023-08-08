@@ -1,0 +1,5154 @@
+{
+  "arsenal": [
+    {
+      "number": 1,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/427568-1681828000.jpg?lm=1",
+        "name": "Aaron Ramsdale",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Bernd Leno",
+          "position": "Goalkeepers",
+          "period": "(19/20 - 21/22)"
+        },
+        {
+          "name": "Petr Cech",
+          "position": "Goalkeepers",
+          "period": "(18/19)"
+        },
+        {
+          "name": "Wojciech Szczesny",
+          "position": "Goalkeepers",
+          "period": "(12/13 - 14/15)"
+        },
+        {
+          "name": "Manuel Almunia",
+          "position": "Goalkeepers",
+          "period": "(08/09 - 11/12)"
+        },
+        {
+          "name": "Manuel Almunia",
+          "position": "Goalkeepers",
+          "period": "(06/07)"
+        },
+        {
+          "name": "Jens Lehmann",
+          "position": "Goalkeepers",
+          "period": "(03/04 - 07/08)"
+        },
+        {
+          "name": "David Seaman",
+          "position": "Goalkeepers",
+          "period": "(90/91 - 02/03)"
+        },
+        {
+          "name": "John Lukic",
+          "position": "Goalkeepers",
+          "period": "(83/84 - 89/90)"
+        },
+        {
+          "name": "George Wood",
+          "position": "Goalkeepers",
+          "period": "(80/81 - 82/83)"
+        },
+        {
+          "name": "Paul Barron",
+          "position": "Goalkeepers",
+          "period": "(78/79 - 79/80)"
+        },
+        {
+          "name": "Pat Jennings",
+          "position": "Goalkeepers",
+          "period": "(77/78 - 84/85)"
+        },
+        {
+          "name": "Jimmy Rimmer",
+          "position": "Goalkeepers",
+          "period": "(74/75 - 76/77)"
+        },
+        {
+          "name": "Geoff Barnett",
+          "position": "Goalkeepers",
+          "period": "(71/72 - 72/73)"
+        },
+        {
+          "name": "Geoff Barnett",
+          "position": "Goalkeepers",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Malcolm Webster",
+          "position": "Goalkeepers",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Bob Wilson",
+          "position": "Goalkeepers",
+          "period": "(67/68 - 73/74)"
+        },
+        {
+          "name": "Tony Burns",
+          "position": "Goalkeepers",
+          "period": "(64/65 - 65/66)"
+        },
+        {
+          "name": "Jim Furnell",
+          "position": "Goalkeepers",
+          "period": "(63/64 - 67/68)"
+        },
+        {
+          "name": "Bob Wilson",
+          "position": "Goalkeepers",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Ian McKechnie",
+          "position": "Goalkeepers",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Jack McClelland",
+          "position": "Goalkeepers",
+          "period": "(62/63)"
+        },
+        {
+          "name": "Jack Kelsey",
+          "position": "Goalkeepers",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Jim Standen",
+          "position": "Goalkeepers",
+          "period": "(58/59 - 59/60)"
+        },
+        {
+          "name": "Con Sullivan",
+          "position": "Goalkeepers",
+          "period": "(55/56 - 57/58)"
+        },
+        {
+          "name": "Jack Kelsey",
+          "position": "Goalkeepers",
+          "period": "(52/53 - 58/59)"
+        },
+        {
+          "name": "Ted Platt",
+          "position": "Goalkeepers",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Jack Kelsey",
+          "position": "Goalkeepers",
+          "period": "(50/51)"
+        },
+        {
+          "name": "Ted Platt",
+          "position": "Goalkeepers",
+          "period": "(49/50 - 50/51)"
+        },
+        {
+          "name": "George Swindin",
+          "position": "Goalkeepers",
+          "period": "(48/49 - 52/53)"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/495666-1684160918.jpg?lm=1",
+        "name": "William Saliba",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "H\u00e9ctor Beller\u00edn",
+          "position": "",
+          "period": "(18/19 - 21/22)"
+        },
+        {
+          "name": "Mathieu Debuchy",
+          "position": "",
+          "period": "(14/15 - 17/18)"
+        },
+        {
+          "name": "Abou Diaby",
+          "position": "",
+          "period": "(05/06 - 12/13)"
+        },
+        {
+          "name": "Pal Lydersen",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Colin Pates",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(91/92 - 93/94)"
+        },
+        {
+          "name": "Lee Dixon",
+          "position": "",
+          "period": "(87/88 - 01/02)"
+        },
+        {
+          "name": "Nigel Winterburn",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Steve Williams",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Viv Anderson",
+          "position": "",
+          "period": "(84/85 - 86/87)"
+        },
+        {
+          "name": "Colin Hill",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(82/83 - 83/84)"
+        },
+        {
+          "name": "Danny O'Shea",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Kenny Sansom",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(81/82 - 82/83)"
+        },
+        {
+          "name": "John Devine",
+          "position": "",
+          "period": "(78/79 - 82/83)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Pat Rice",
+          "position": "",
+          "period": "(69/70 - 79/80)"
+        },
+        {
+          "name": "Bob McNab",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(65/66 - 66/67)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(65/66 - 67/68)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(65/66 - 69/70)"
+        },
+        {
+          "name": "Don Howe",
+          "position": "",
+          "period": "(64/65 - 65/66)"
+        },
+        {
+          "name": "Dave Bacuzzi",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Eddie Magill",
+          "position": "",
+          "period": "(61/62 - 63/64)"
+        },
+        {
+          "name": "Dennis Evans",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(57/58 - 59/60)"
+        },
+        {
+          "name": "Stan Charlton",
+          "position": "",
+          "period": "(55/56 - 58/59)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(53/54 - 55/56)"
+        },
+        {
+          "name": "Joe Wade",
+          "position": "",
+          "period": "(52/53 - 53/54)"
+        },
+        {
+          "name": "John Chenhall",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Laurie Scott",
+          "position": "",
+          "period": "(48/49 - 50/51)"
+        },
+        {
+          "name": "Walley Barnes",
+          "position": "",
+          "period": "(48/49 - 51/52)"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/300716-1662666488.jpg?lm=1",
+        "name": "Kieran Tierney",
+        "since": "19/20"
+      },
+      "history": [
+        {
+          "name": "Jordi Osei-Tutu",
+          "position": "",
+          "period": "(17/18)"
+        },
+        {
+          "name": "Kieran Gibbs",
+          "position": "",
+          "period": "(14/15 - 16/17)"
+        },
+        {
+          "name": "Bacary Sagna",
+          "position": "",
+          "period": "(07/08 - 13/14)"
+        },
+        {
+          "name": "Ashley Cole",
+          "position": "",
+          "period": "(00/01 - 05/06)"
+        },
+        {
+          "name": "Igors Stepanovs",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Lee Dixon",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Nigel Winterburn",
+          "position": "",
+          "period": "(87/88 - 99/00)"
+        },
+        {
+          "name": "Steve Williams",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Tommy Caton",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Kenny Sansom",
+          "position": "",
+          "period": "(80/81 - 87/88)"
+        },
+        {
+          "name": "John Devine",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Steve Walford",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Sammy Nelson",
+          "position": "",
+          "period": "(73/74 - 79/80)"
+        },
+        {
+          "name": "Sammy Nelson",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Sammy Nelson",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Pat Rice",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Bob McNab",
+          "position": "",
+          "period": "(67/68 - 74/75)"
+        },
+        {
+          "name": "Tom Walley",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(65/66 - 67/68)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(65/66 - 66/67)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Fred Clarke",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Billy McCullough",
+          "position": "",
+          "period": "(61/62 - 65/66)"
+        },
+        {
+          "name": "Billy McCullough",
+          "position": "",
+          "period": "(58/59 - 59/60)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Dennis Evans",
+          "position": "",
+          "period": "(54/55 - 58/59)"
+        },
+        {
+          "name": "Walley Barnes",
+          "position": "",
+          "period": "(53/54 - 54/55)"
+        },
+        {
+          "name": "Joe Wade",
+          "position": "",
+          "period": "(52/53 - 53/54)"
+        },
+        {
+          "name": "Joe Mercer",
+          "position": "",
+          "period": "(51/52)"
+        },
+        {
+          "name": "Walley Barnes",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Laurie Scott",
+          "position": "",
+          "period": "(48/49 - 49/50)"
+        },
+        {
+          "name": "Lionel Smith",
+          "position": "",
+          "period": "(48/49 - 52/53)"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/335721-1683275943.jpg?lm=1",
+        "name": "Ben White",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "William Saliba",
+          "position": "",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Mohamed Elneny",
+          "position": "",
+          "period": "(18/19)"
+        },
+        {
+          "name": "Per Mertesacker",
+          "position": "",
+          "period": "(11/12 - 17/18)"
+        },
+        {
+          "name": "Cesc F\u00e0bregas",
+          "position": "",
+          "period": "(06/07 - 10/11)"
+        },
+        {
+          "name": "Patrick Vieira",
+          "position": "",
+          "period": "(96/97 - 04/05)"
+        },
+        {
+          "name": "Stefan Schwarz",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Ian Selley",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Lee Dixon",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Nigel Winterburn",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Sigurdur J\u00f3nsson",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(87/88 - 88/89)"
+        },
+        {
+          "name": "Kenny Sansom",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(86/87 - 91/92)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Steve Williams",
+          "position": "",
+          "period": "(84/85 - 87/88)"
+        },
+        {
+          "name": "Chris Whyte",
+          "position": "",
+          "period": "(82/83 - 83/84)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Brian Talbot",
+          "position": "",
+          "period": "(78/79 - 84/85)"
+        },
+        {
+          "name": "David Price",
+          "position": "",
+          "period": "(77/78 - 78/79)"
+        },
+        {
+          "name": "Richie Powling",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Trevor Ross",
+          "position": "",
+          "period": "(75/76 - 76/77)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(74/75 - 75/76)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(70/71 - 75/76)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(69/70 - 71/72)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Micky Boot",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Billy McCullough",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(64/65 - 69/70)"
+        },
+        {
+          "name": "Geoff Strong",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(63/64 - 65/66)"
+        },
+        {
+          "name": "Laurie Brown",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "John Barnwell",
+          "position": "",
+          "period": "(62/63 - 63/64)"
+        },
+        {
+          "name": "John Snedden",
+          "position": "",
+          "period": "(62/63)"
+        },
+        {
+          "name": "Laurie Brown",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Gerry Ward",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Tommy Docherty",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Cliff Holton",
+          "position": "",
+          "period": "(56/57 - 57/58)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(56/57 - 59/60)"
+        },
+        {
+          "name": "Dave Bowen",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(54/55 - 57/58)"
+        },
+        {
+          "name": "Dave Bowen",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Billy Dickson",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Arthur Shaw",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Ray Daniel",
+          "position": "",
+          "period": "(51/52)"
+        },
+        {
+          "name": "Joe Mercer",
+          "position": "",
+          "period": "(49/50 - 50/51)"
+        },
+        {
+          "name": "Alex Forbes",
+          "position": "",
+          "period": "(48/49 - 54/55)"
+        },
+        {
+          "name": "Bryn Jones",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Archie Macaulay",
+          "position": "",
+          "period": "(48/49 - 49/50)"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/230784-1668430877.jpg?lm=1",
+        "name": "Thomas Partey",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Sokratis Papastathopoulos",
+          "position": "",
+          "period": "(18/19 - 19/20)"
+        },
+        {
+          "name": "Gabriel Paulista",
+          "position": "",
+          "period": "(14/15 - 16/17)"
+        },
+        {
+          "name": "Thomas Vermaelen",
+          "position": "",
+          "period": "(09/10 - 13/14)"
+        },
+        {
+          "name": "Kolo Tour\u00e9",
+          "position": "",
+          "period": "(06/07 - 08/09)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(99/00 - 03/04)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Ian Selley",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(91/92 - 94/95)"
+        },
+        {
+          "name": "Nigel Winterburn",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Colin Pates",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(90/91 - 92/93)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(88/89 - 98/99)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Steve Walford",
+          "position": "",
+          "period": "(79/80 - 80/81)"
+        },
+        {
+          "name": "Willie Young",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Pat Howard",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Richie Powling",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(75/76 - 89/90)"
+        },
+        {
+          "name": "Terry Mancini",
+          "position": "",
+          "period": "(74/75 - 75/76)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Jeff Blockley",
+          "position": "",
+          "period": "(72/73 - 74/75)"
+        },
+        {
+          "name": "John Roberts",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(69/70 - 72/73)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Gordon Ferry",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(64/65 - 69/70)"
+        },
+        {
+          "name": "Ian Ure",
+          "position": "",
+          "period": "(63/64 - 68/69)"
+        },
+        {
+          "name": "Laurie Brown",
+          "position": "",
+          "period": "(62/63)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Dave Bowen",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Jim Fotheringham",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "Jim Fotheringham",
+          "position": "",
+          "period": "(55/56)"
+        },
+        {
+          "name": "Bill Dodgin Jr.",
+          "position": "",
+          "period": "(55/56 - 59/60)"
+        },
+        {
+          "name": "Alex Forbes",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Billy Dickson",
+          "position": "",
+          "period": "(53/54 - 54/55)"
+        },
+        {
+          "name": "Bill Dodgin Jr.",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Lionel Smith",
+          "position": "",
+          "period": "(51/52)"
+        },
+        {
+          "name": "Ray Daniel",
+          "position": "",
+          "period": "(51/52 - 52/53)"
+        },
+        {
+          "name": "Leslie Compton",
+          "position": "",
+          "period": "(48/49 - 50/51)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Denis Compton",
+          "position": "",
+          "period": "(48/49)"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/435338-1684162833.jpg?lm=1",
+        "name": "Gabriel Magalh\u00e3es",
+        "since": "20/21"
+      },
+      "history": [
+        {
+          "name": "Laurent Koscielny",
+          "position": "",
+          "period": "(10/11 - 18/19)"
+        },
+        {
+          "name": "Philippe Senderos",
+          "position": "",
+          "period": "(09/10)"
+        },
+        {
+          "name": "Philippe Senderos",
+          "position": "",
+          "period": "(06/07 - 07/08)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Eddie McGoldrick",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "John Jensen",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Jimmy Carter",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Colin Pates",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(90/91 - 92/93)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "David Rocastle",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(88/89)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(84/85 - 01/02)"
+        },
+        {
+          "name": "Tommy Caton",
+          "position": "",
+          "period": "(83/84 - 85/86)"
+        },
+        {
+          "name": "Colin Hill",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Peter Nicholas",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Chris Whyte",
+          "position": "",
+          "period": "(81/82 - 82/83)"
+        },
+        {
+          "name": "Steve Walford",
+          "position": "",
+          "period": "(78/79 - 80/81)"
+        },
+        {
+          "name": "Willie Young",
+          "position": "",
+          "period": "(77/78 - 81/82)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Pat Howard",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(76/77 - 77/78)"
+        },
+        {
+          "name": "Richie Powling",
+          "position": "",
+          "period": "(75/76 - 76/77)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "John Matthews",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(73/74 - 74/75)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "John Roberts",
+          "position": "",
+          "period": "(70/71 - 72/73)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Jimmy McGill",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Tom Walley",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Ian Ure",
+          "position": "",
+          "period": "(65/66 - 68/69)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(64/65 - 66/67)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(63/64 - 74/75)"
+        },
+        {
+          "name": "John Barnwell",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(62/63 - 63/64)"
+        },
+        {
+          "name": "John Petts",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "John Snedden",
+          "position": "",
+          "period": "(61/62 - 63/64)"
+        },
+        {
+          "name": "Gerry Ward",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Tommy Docherty",
+          "position": "",
+          "period": "(58/59 - 59/60)"
+        },
+        {
+          "name": "Len Wills",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Danny Clapton",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Cliff Holton",
+          "position": "",
+          "period": "(55/56)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Dave Bowen",
+          "position": "",
+          "period": "(54/55 - 58/59)"
+        },
+        {
+          "name": "Billy Dickson",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Arthur Shaw",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Dave Bowen",
+          "position": "",
+          "period": "(50/51)"
+        },
+        {
+          "name": "Arthur Shaw",
+          "position": "",
+          "period": "(50/51)"
+        },
+        {
+          "name": "Alex Forbes",
+          "position": "",
+          "period": "(49/50 - 53/54)"
+        },
+        {
+          "name": "Leslie Compton",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Joe Mercer",
+          "position": "",
+          "period": "(48/49 - 53/54)"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/433177-1684155052.jpg?lm=1",
+        "name": "Bukayo Saka",
+        "since": "20/21"
+      },
+      "history": [
+        {
+          "name": "Henrikh Mkhitaryan",
+          "position": "",
+          "period": "(17/18 - 19/20)"
+        },
+        {
+          "name": "Alexis S\u00e1nchez",
+          "position": "",
+          "period": "(16/17 - 17/18)"
+        },
+        {
+          "name": "Tomas Rosicky",
+          "position": "",
+          "period": "(06/07 - 15/16)"
+        },
+        {
+          "name": "Robert Pir\u00e8s",
+          "position": "",
+          "period": "(00/01 - 05/06)"
+        },
+        {
+          "name": "Nelson Vivas",
+          "position": "",
+          "period": "(98/99 - 99/00)"
+        },
+        {
+          "name": "David Platt",
+          "position": "",
+          "period": "(95/96 - 97/98)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "John Jensen",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(92/93 - 94/95)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Jimmy Carter",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(89/90 - 92/93)"
+        },
+        {
+          "name": "Steve Williams",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "David Rocastle",
+          "position": "",
+          "period": "(85/86 - 91/92)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(83/84 - 85/86)"
+        },
+        {
+          "name": "Alan Sunderland",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Brian Talbot",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "John Hawley",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Peter Nicholas",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(81/82 - 83/84)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(80/81 - 81/82)"
+        },
+        {
+          "name": "David Price",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Steve Gatting",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Liam Brady",
+          "position": "",
+          "period": "(76/77 - 79/80)"
+        },
+        {
+          "name": "Alan Hudson",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Alan Ball",
+          "position": "",
+          "period": "(75/76 - 76/77)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Jeff Blockley",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "Peter Marinello",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "Peter Marinello",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(69/70 - 75/76)"
+        },
+        {
+          "name": "Jimmy Robertson",
+          "position": "",
+          "period": "(68/69 - 69/70)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(67/68 - 68/69)"
+        },
+        {
+          "name": "George Johnston",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Colin Addison",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "Tom Walley",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Tommy Coakley",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(65/66 - 67/68)"
+        },
+        {
+          "name": "Gordon Neilson",
+          "position": "",
+          "period": "(65/66 - 66/67)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(65/66 - 66/67)"
+        },
+        {
+          "name": "Ian Ure",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Terry Anderson",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Alan Skirton",
+          "position": "",
+          "period": "(63/64 - 65/66)"
+        },
+        {
+          "name": "John MacLeod",
+          "position": "",
+          "period": "(61/62 - 63/64)"
+        },
+        {
+          "name": "Danny Clapton",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Jackie Henderson",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Gordon Nutt",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "Jimmy Bloomfield",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Danny Clapton",
+          "position": "",
+          "period": "(55/56 - 59/60)"
+        },
+        {
+          "name": "Mike Tiddy",
+          "position": "",
+          "period": "(55/56 - 56/57)"
+        },
+        {
+          "name": "Derek Tapscott",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Jimmy Bloomfield",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Ben Marden",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Arthur Milton",
+          "position": "",
+          "period": "(52/53 - 53/54)"
+        },
+        {
+          "name": "Freddie Cox",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Freddie Cox",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Ian McPherson",
+          "position": "",
+          "period": "(48/49 - 50/51)"
+        },
+        {
+          "name": "Archie Macaulay",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(48/49 - 51/52)"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/316264-1678877651.jpg?lm=1",
+        "name": "Martin \u00d8degaard",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Dani Ceballos",
+          "position": "",
+          "period": "(19/20 - 20/21)"
+        },
+        {
+          "name": "Aaron Ramsey",
+          "position": "",
+          "period": "(16/17 - 18/19)"
+        },
+        {
+          "name": "Mikel Arteta",
+          "position": "",
+          "period": "(11/12 - 15/16)"
+        },
+        {
+          "name": "Samir Nasri",
+          "position": "",
+          "period": "(08/09 - 10/11)"
+        },
+        {
+          "name": "Lassana Diarra",
+          "position": "",
+          "period": "(07/08)"
+        },
+        {
+          "name": "Freddie Ljungberg",
+          "position": "",
+          "period": "(98/99 - 06/07)"
+        },
+        {
+          "name": "Michael Black",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Ian Wright",
+          "position": "",
+          "period": "(91/92 - 97/98)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "David Rocastle",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Kevin Richardson",
+          "position": "",
+          "period": "(87/88 - 89/90)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Steve Williams",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(84/85 - 85/86)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Paul Gorman",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Brian Talbot",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(82/83 - 87/88)"
+        },
+        {
+          "name": "Raphael Meade",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Lee Chapman",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Paul Vaessen",
+          "position": "",
+          "period": "(78/79 - 80/81)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Alan Sunderland",
+          "position": "",
+          "period": "(77/78 - 82/83)"
+        },
+        {
+          "name": "John Matthews",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Trevor Ross",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Alan Hudson",
+          "position": "",
+          "period": "(76/77 - 77/78)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Liam Brady",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Alex Cropley",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Liam Brady",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Alan Ball",
+          "position": "",
+          "period": "(71/72 - 75/76)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(70/71)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(70/71)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "George Johnston",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(67/68 - 70/71)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(67/68 - 68/69)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Colin Addison",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "George Eastham",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(64/65)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(64/65 - 65/66)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(64/65 - 65/66)"
+        },
+        {
+          "name": "George Eastham",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "Geoff Strong",
+          "position": "",
+          "period": "(62/63 - 63/64)"
+        },
+        {
+          "name": "George Eastham",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "John Barnwell",
+          "position": "",
+          "period": "(58/59 - 59/60)"
+        },
+        {
+          "name": "Jimmy Bloomfield",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(57/58 - 58/59)"
+        },
+        {
+          "name": "John Barnwell",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "David Herd",
+          "position": "",
+          "period": "(56/57 - 57/58)"
+        },
+        {
+          "name": "Ray Swallow",
+          "position": "",
+          "period": "(56/57 - 57/58)"
+        },
+        {
+          "name": "Jimmy Bloomfield",
+          "position": "",
+          "period": "(55/56 - 56/57)"
+        },
+        {
+          "name": "Derek Tapscott",
+          "position": "",
+          "period": "(55/56 - 57/58)"
+        },
+        {
+          "name": "Derek Tapscott",
+          "position": "",
+          "period": "(53/54)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Noel Kelly",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Doug Lishman",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Ronnie Rooke",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Jimmy Logie",
+          "position": "",
+          "period": "(48/49 - 54/55)"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/363205-1669711141.jpg?lm=1",
+        "name": "Gabriel Jesus",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Alexandre Lacazette",
+          "position": "",
+          "period": "(17/18 - 21/22)"
+        },
+        {
+          "name": "Lucas P\u00e9rez",
+          "position": "",
+          "period": "(16/17)"
+        },
+        {
+          "name": "Lukas Podolski",
+          "position": "",
+          "period": "(12/13 - 14/15)"
+        },
+        {
+          "name": "Chu-young Park",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Eduardo",
+          "position": "",
+          "period": "(07/08 - 09/10)"
+        },
+        {
+          "name": "J\u00falio Baptista",
+          "position": "",
+          "period": "(06/07)"
+        },
+        {
+          "name": "Jos\u00e9 Antonio Reyes",
+          "position": "",
+          "period": "(03/04 - 06/07)"
+        },
+        {
+          "name": "Francis Jeffers",
+          "position": "",
+          "period": "(01/02 - 03/04)"
+        },
+        {
+          "name": "Davor Suker",
+          "position": "",
+          "period": "(99/00)"
+        },
+        {
+          "name": "Nicolas Anelka",
+          "position": "",
+          "period": "(96/97 - 98/99)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "John Hartson",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Niall Quinn",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(87/88 - 94/95)"
+        },
+        {
+          "name": "Niall Quinn",
+          "position": "",
+          "period": "(86/87 - 87/88)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(84/85 - 85/86)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Paul Mariner",
+          "position": "",
+          "period": "(83/84 - 84/85)"
+        },
+        {
+          "name": "Tony Woodcock",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Vladimir Petrovic",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Lee Chapman",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Alan Sunderland",
+          "position": "",
+          "period": "(81/82 - 82/83)"
+        },
+        {
+          "name": "Raphael Meade",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Steve Gatting",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Paul Vaessen",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Frank Stapleton",
+          "position": "",
+          "period": "(78/79 - 80/81)"
+        },
+        {
+          "name": "Malcolm Macdonald",
+          "position": "",
+          "period": "(76/77 - 78/79)"
+        },
+        {
+          "name": "Frank Stapleton",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(71/72 - 72/73)"
+        },
+        {
+          "name": "Peter Marinello",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Bobby Gould",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(67/68 - 68/69)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(66/67 - 67/68)"
+        },
+        {
+          "name": "Tommy Baldwin",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(65/66 - 75/76)"
+        },
+        {
+          "name": "Joe Baker",
+          "position": "",
+          "period": "(62/63 - 65/66)"
+        },
+        {
+          "name": "Geoff Strong",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Mel Charles",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Len Julians",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Jackie Henderson",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "David Herd",
+          "position": "",
+          "period": "(56/57 - 59/60)"
+        },
+        {
+          "name": "Cliff Holton",
+          "position": "",
+          "period": "(56/57 - 57/58)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(55/56)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(55/56)"
+        },
+        {
+          "name": "Tommy Lawton",
+          "position": "",
+          "period": "(53/54 - 54/55)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(52/53)"
+        },
+        {
+          "name": "Reg Lewis",
+          "position": "",
+          "period": "(51/52)"
+        },
+        {
+          "name": "Cliff Holton",
+          "position": "",
+          "period": "(50/51 - 54/55)"
+        },
+        {
+          "name": "Freddie Cox",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Reg Lewis",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Peter Goring",
+          "position": "",
+          "period": "(49/50 - 50/51)"
+        },
+        {
+          "name": "Doug Lishman",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Ronnie Rooke",
+          "position": "",
+          "period": "(48/49)"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/392765-1684164628.jpg?lm=1",
+        "name": "Emile Smith Rowe",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Mesut \u00d6zil",
+          "position": "",
+          "period": "(18/19 - 19/20)"
+        },
+        {
+          "name": "Jack Wilshere",
+          "position": "",
+          "period": "(12/13 - 17/18)"
+        },
+        {
+          "name": "Robin van Persie",
+          "position": "",
+          "period": "(10/11 - 11/12)"
+        },
+        {
+          "name": "William Gallas",
+          "position": "",
+          "period": "(06/07 - 09/10)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(96/97)"
+        },
+        {
+          "name": "Dennis Bergkamp",
+          "position": "",
+          "period": "(95/96 - 05/06)"
+        },
+        {
+          "name": "Ian Selley",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92 - 93/94)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(89/90 - 91/92)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(88/89 - 94/95)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(88/89)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Kevin Richardson",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(86/87 - 87/88)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Niall Quinn",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Raphael Meade",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "Tony Woodcock",
+          "position": "",
+          "period": "(82/83 - 85/86)"
+        },
+        {
+          "name": "Stewart Robson",
+          "position": "",
+          "period": "(81/82 - 82/83)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Peter Nicholas",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(80/81 - 82/83)"
+        },
+        {
+          "name": "Steve Gatting",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "John Devine",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "David Price",
+          "position": "",
+          "period": "(78/79 - 79/80)"
+        },
+        {
+          "name": "Steve Gatting",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "Frank Stapleton",
+          "position": "",
+          "period": "(76/77 - 78/79)"
+        },
+        {
+          "name": "Alex Cropley",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Brian Kidd",
+          "position": "",
+          "period": "(74/75 - 75/76)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Ray Kennedy",
+          "position": "",
+          "period": "(70/71 - 73/74)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(69/70 - 70/71)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(68/69 - 69/70)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Bobby Gould",
+          "position": "",
+          "period": "(67/68 - 69/70)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Colin Addison",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(66/67 - 68/69)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "David Court",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Geoff Strong",
+          "position": "",
+          "period": "(63/64)"
+        },
+        {
+          "name": "George Eastham",
+          "position": "",
+          "period": "(62/63 - 65/66)"
+        },
+        {
+          "name": "Arfon Griffiths",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(61/62)"
+        },
+        {
+          "name": "John Barnwell",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Vic Groves",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Ray Swallow",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Derek Tapscott",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Jimmy Bloomfield",
+          "position": "",
+          "period": "(55/56 - 59/60)"
+        },
+        {
+          "name": "Derek Tapscott",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Reg Lewis",
+          "position": "",
+          "period": "(49/50 - 50/51)"
+        },
+        {
+          "name": "Jimmy Logie",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Bryn Jones",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Archie Macaulay",
+          "position": "",
+          "period": "(48/49 - 49/50)"
+        },
+        {
+          "name": "Denis Compton",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Doug Lishman",
+          "position": "",
+          "period": "(48/49 - 55/56)"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/655488-1682689091.jpg?lm=1",
+        "name": "Gabriel Martinelli",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Martin \u00d8degaard",
+          "position": "",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Lucas Torreira",
+          "position": "",
+          "period": "(18/19 - 19/20)"
+        },
+        {
+          "name": "Mesut \u00d6zil",
+          "position": "",
+          "period": "(13/14 - 17/18)"
+        },
+        {
+          "name": "Andr\u00e9 Santos",
+          "position": "",
+          "period": "(11/12 - 12/13)"
+        },
+        {
+          "name": "Carlos Vela",
+          "position": "",
+          "period": "(10/11)"
+        },
+        {
+          "name": "Robin van Persie",
+          "position": "",
+          "period": "(04/05 - 09/10)"
+        },
+        {
+          "name": "Sylvain Wiltord",
+          "position": "",
+          "period": "(00/01 - 03/04)"
+        },
+        {
+          "name": "Marc Overmars",
+          "position": "",
+          "period": "(97/98 - 99/00)"
+        },
+        {
+          "name": "Glenn Helder",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Eddie McGoldrick",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        },
+        {
+          "name": "Ian Selley",
+          "position": "",
+          "period": "(92/93 - 94/95)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Jimmy Carter",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Ian Wright",
+          "position": "",
+          "period": "(91/92 - 93/94)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(88/89 - 91/92)"
+        },
+        {
+          "name": "Brian Marwood",
+          "position": "",
+          "period": "(87/88 - 89/90)"
+        },
+        {
+          "name": "Kevin Richardson",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(86/87 - 87/88)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Colin Hill",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "John Devine",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "Jim Harvey",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "Alan Hudson",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(77/78 - 83/84)"
+        },
+        {
+          "name": "Wilf Rostron",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Alex Cropley",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Brian Kidd",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Liam Brady",
+          "position": "",
+          "period": "(73/74 - 76/77)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(73/74)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "John Roberts",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(71/72 - 73/74)"
+        },
+        {
+          "name": "Jon Sammels",
+          "position": "",
+          "period": "(70/71)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(69/70 - 72/73)"
+        },
+        {
+          "name": "Ray Kennedy",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(69/70 - 70/71)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Bobby Gould",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "David Jenkins",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Tom Walley",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "George Eastham",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Alan Skirton",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Terry Anderson",
+          "position": "",
+          "period": "(63/64 - 64/65)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(61/62 - 69/70)"
+        },
+        {
+          "name": "Alan Skirton",
+          "position": "",
+          "period": "(61/62 - 62/63)"
+        },
+        {
+          "name": "Jackie Henderson",
+          "position": "",
+          "period": "(58/59)"
+        },
+        {
+          "name": "Gerry Ward",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "Dan Le Roux",
+          "position": "",
+          "period": "(57/58)"
+        },
+        {
+          "name": "Joe Haverty",
+          "position": "",
+          "period": "(56/57 - 59/60)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(56/57)"
+        },
+        {
+          "name": "Mike Tiddy",
+          "position": "",
+          "period": "(55/56 - 57/58)"
+        },
+        {
+          "name": "Gordon Nutt",
+          "position": "",
+          "period": "(55/56)"
+        },
+        {
+          "name": "Joe Haverty",
+          "position": "",
+          "period": "(54/55)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(52/53 - 54/55)"
+        },
+        {
+          "name": "Freddie Cox",
+          "position": "",
+          "period": "(51/52)"
+        },
+        {
+          "name": "Ben Marden",
+          "position": "",
+          "period": "(50/51)"
+        },
+        {
+          "name": "Denis Compton",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Ian McPherson",
+          "position": "",
+          "period": "(49/50)"
+        },
+        {
+          "name": "Don Roper",
+          "position": "",
+          "period": "(48/49 - 50/51)"
+        },
+        {
+          "name": "Reg Lewis",
+          "position": "",
+          "period": "(48/49)"
+        },
+        {
+          "name": "Thomas Vallance",
+          "position": "",
+          "period": "(48/49)"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/420243-1683881144.jpg?lm=1",
+        "name": "Jurrien Timber",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "William Saliba",
+          "position": "",
+          "period": "(22/23)"
+        },
+        {
+          "name": "Willian",
+          "position": "",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Stephan Lichtsteiner",
+          "position": "",
+          "period": "(18/19)"
+        },
+        {
+          "name": "Olivier Giroud",
+          "position": "",
+          "period": "(12/13 - 17/18)"
+        },
+        {
+          "name": "Thierry Henry",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Carlos Vela",
+          "position": "",
+          "period": "(08/09 - 09/10)"
+        },
+        {
+          "name": "Laur\u00e9n",
+          "position": "",
+          "period": "(00/01 - 06/07)"
+        },
+        {
+          "name": "Christopher Wreh",
+          "position": "",
+          "period": "(97/98 - 99/00)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Vince Bartram",
+          "position": "Goalkeepers",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(90/91 - 92/93)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Colin Pates",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Sigurdur J\u00f3nsson",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(88/89)"
+        },
+        {
+          "name": "Niall Quinn",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(86/87 - 87/88)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(86/87)"
+        },
+        {
+          "name": "Niall Quinn",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Paul Mariner",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Chris Whyte",
+          "position": "",
+          "period": "(85/86)"
+        },
+        {
+          "name": "Brian Talbot",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Charlie Nicholas",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Tony Adams",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(84/85)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(84/85 - 85/86)"
+        },
+        {
+          "name": "Ian Allinson",
+          "position": "",
+          "period": "(83/84 - 84/85)"
+        },
+        {
+          "name": "Raphael Meade",
+          "position": "",
+          "period": "(83/84)"
+        },
+        {
+          "name": "John Hawley",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(82/83)"
+        },
+        {
+          "name": "Lee Chapman",
+          "position": "",
+          "period": "(82/83 - 83/84)"
+        },
+        {
+          "name": "Peter Nicholas",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Raphael Meade",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "Ray Hankin",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "John Devine",
+          "position": "",
+          "period": "(81/82)"
+        },
+        {
+          "name": "David Price",
+          "position": "",
+          "period": "(80/81)"
+        },
+        {
+          "name": "Brian McDermott",
+          "position": "",
+          "period": "(80/81 - 83/84)"
+        },
+        {
+          "name": "John Hollins",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Paul Vaessen",
+          "position": "",
+          "period": "(79/80 - 81/82)"
+        },
+        {
+          "name": "Steve Gatting",
+          "position": "",
+          "period": "(79/80 - 80/81)"
+        },
+        {
+          "name": "Sammy Nelson",
+          "position": "",
+          "period": "(79/80)"
+        },
+        {
+          "name": "Steve Brignall",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "John Kosmina",
+          "position": "",
+          "period": "(78/79)"
+        },
+        {
+          "name": "Graham Rix",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Steve Walford",
+          "position": "",
+          "period": "(77/78 - 79/80)"
+        },
+        {
+          "name": "John Matthews",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(77/78)"
+        },
+        {
+          "name": "Peter Storey",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Richie Powling",
+          "position": "",
+          "period": "(76/77)"
+        },
+        {
+          "name": "Frank Stapleton",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Terry Mancini",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Liam Brady",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(75/76)"
+        },
+        {
+          "name": "Richie Powling",
+          "position": "",
+          "period": "(74/75)"
+        },
+        {
+          "name": "Brian Chambers",
+          "position": "",
+          "period": "(73/74)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(73/74)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(73/74)"
+        },
+        {
+          "name": "Sammy Nelson",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "Frank McLintock",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(72/73)"
+        },
+        {
+          "name": "Ray Kennedy",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(71/72)"
+        },
+        {
+          "name": "Eddie Kelly",
+          "position": "",
+          "period": "(70/71 - 71/72)"
+        },
+        {
+          "name": "John Roberts",
+          "position": "",
+          "period": "(70/71 - 71/72)"
+        },
+        {
+          "name": "Peter Marinello",
+          "position": "",
+          "period": "(70/71 - 71/72)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(70/71)"
+        },
+        {
+          "name": "Charlie George",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Ray Kennedy",
+          "position": "",
+          "period": "(69/70)"
+        },
+        {
+          "name": "Terry Neill",
+          "position": "",
+          "period": "(68/69 - 69/70)"
+        },
+        {
+          "name": "John Radford",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "George Graham",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(68/69)"
+        },
+        {
+          "name": "Bobby Gould",
+          "position": "",
+          "period": "(67/68 - 68/69)"
+        },
+        {
+          "name": "Colin Addison",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "George Johnston",
+          "position": "",
+          "period": "(67/68)"
+        },
+        {
+          "name": "Bob McNab",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Tom Walley",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Micky Boot",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Jimmy McGill",
+          "position": "",
+          "period": "(66/67)"
+        },
+        {
+          "name": "Billy McCullough",
+          "position": "",
+          "period": "(65/66)"
+        },
+        {
+          "name": "Peter Simpson",
+          "position": "",
+          "period": "(65/66 - 66/67)"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/205657-1669656280.png?lm=1",
+        "name": "R\u00fanar Alex R\u00fanarsson",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "R\u00fanar Alex R\u00fanarsson",
+          "position": "Goalkeepers",
+          "period": "(20/21)"
+        },
+        {
+          "name": "David Ospina",
+          "position": "Goalkeepers",
+          "period": "(14/15 - 18/19)"
+        },
+        {
+          "name": "Emiliano Viviano",
+          "position": "Goalkeepers",
+          "period": "(13/14)"
+        },
+        {
+          "name": "Wojciech Szczesny",
+          "position": "Goalkeepers",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Jens Lehmann",
+          "position": "Goalkeepers",
+          "period": "(10/11)"
+        },
+        {
+          "name": "Aleksandr Hleb",
+          "position": "",
+          "period": "(05/06 - 07/08)"
+        },
+        {
+          "name": "Stuart Taylor",
+          "position": "Goalkeepers",
+          "period": "(01/02 - 04/05)"
+        },
+        {
+          "name": "Alexander Manninger",
+          "position": "Goalkeepers",
+          "period": "(97/98 - 00/01)"
+        },
+        {
+          "name": "Vince Bartram",
+          "position": "Goalkeepers",
+          "period": "(94/95 - 96/97)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Alan Miller",
+          "position": "Goalkeepers",
+          "period": "(92/93 - 93/94)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David Rocastle",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Pal Lydersen",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Andy Linighan",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Steve Bould",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Colin Pates",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Sigurdur J\u00f3nsson",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/340324-1675331055.jpg?lm=1",
+        "name": "Eddie Nketiah",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Pierre-Emerick Aubameyang",
+          "position": "",
+          "period": "(17/18 - 21/22)"
+        },
+        {
+          "name": "Theo Walcott",
+          "position": "",
+          "period": "(08/09 - 17/18)"
+        },
+        {
+          "name": "Thierry Henry",
+          "position": "",
+          "period": "(99/00 - 06/07)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Martin Keown",
+          "position": "",
+          "period": "(93/94 - 98/99)"
+        },
+        {
+          "name": "Eddie McGoldrick",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        },
+        {
+          "name": "Mark Flatts",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Alan Smith",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Neil Heaney",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Jimmy Carter",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Paul Davis",
+          "position": "",
+          "period": "(91/92 - 92/93)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(90/91 - 91/92)"
+        },
+        {
+          "name": "David O'Leary",
+          "position": "",
+          "period": "(90/91)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(89/90 - 91/92)"
+        },
+        {
+          "name": "Sigurdur J\u00f3nsson",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Paul Merson",
+          "position": "",
+          "period": "(89/90)"
+        },
+        {
+          "name": "Martin Hayes",
+          "position": "",
+          "period": "(87/88 - 88/89)"
+        },
+        {
+          "name": "Gus Caesar",
+          "position": "",
+          "period": "(87/88)"
+        },
+        {
+          "name": "Michael Thomas",
+          "position": "",
+          "period": "(86/87)"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/425918-1683101307.jpg?lm=1",
+        "name": "Jakub Kiwior",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Ainsley Maitland-Niles",
+          "position": "",
+          "period": "(18/19 - 21/22)"
+        },
+        {
+          "name": "Alex Oxlade-Chamberlain",
+          "position": "",
+          "period": "(11/12 - 17/18)"
+        },
+        {
+          "name": "Den\u00edlson",
+          "position": "",
+          "period": "(06/07 - 10/11)"
+        },
+        {
+          "name": "Cesc F\u00e0bregas",
+          "position": "",
+          "period": "(04/05 - 05/06)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(95/96 - 03/04)"
+        },
+        {
+          "name": "Stefan Schwarz",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Chris Kiwomya",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Kevin Campbell",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Eddie McGoldrick",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Anders Limpar",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(92/93)"
+        },
+        {
+          "name": "Perry Groves",
+          "position": "",
+          "period": "(91/92)"
+        },
+        {
+          "name": "George Armstrong",
+          "position": "",
+          "period": "(69/70)"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/253341-1683101805.jpeg?lm=1",
+        "name": "Rob Holding",
+        "since": "16/17"
+      },
+      "history": [
+        {
+          "name": "Aaron Ramsey",
+          "position": "",
+          "period": "(08/09 - 15/16)"
+        },
+        {
+          "name": "Mathieu Flamini",
+          "position": "",
+          "period": "(04/05 - 07/08)"
+        },
+        {
+          "name": "Giovanni van Bronckhorst",
+          "position": "",
+          "period": "(01/02 - 03/04)"
+        },
+        {
+          "name": "Sylvinho",
+          "position": "",
+          "period": "(99/00 - 00/01)"
+        },
+        {
+          "name": "Stephen Hughes",
+          "position": "",
+          "period": "(97/98 - 98/99)"
+        },
+        {
+          "name": "John Hartson",
+          "position": "",
+          "period": "(94/95 - 96/97)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Vince Bartram",
+          "position": "Goalkeepers",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Paul Dickov",
+          "position": "",
+          "period": "(93/94)"
+        },
+        {
+          "name": "Alan Miller",
+          "position": "Goalkeepers",
+          "period": "(91/92)"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/112988-1464947425.jpg?lm=1",
+        "name": "C\u00e9dric Soares",
+        "since": "19/20"
+      },
+      "history": [
+        {
+          "name": "Alex Iwobi",
+          "position": "",
+          "period": "(16/17 - 18/19)"
+        },
+        {
+          "name": "Alexis S\u00e1nchez",
+          "position": "",
+          "period": "(14/15 - 15/16)"
+        },
+        {
+          "name": "Nacho Monreal",
+          "position": "",
+          "period": "(12/13 - 13/14)"
+        },
+        {
+          "name": "Alex Song",
+          "position": "",
+          "period": "(05/06 - 11/12)"
+        },
+        {
+          "name": "Ed\u00fa Gaspar",
+          "position": "",
+          "period": "(00/01 - 04/05)"
+        },
+        {
+          "name": "Emmanuel Petit",
+          "position": "",
+          "period": "(97/98 - 99/00)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "John Jensen",
+          "position": "",
+          "period": "(92/93 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/331560-1682591217.jpg?lm=1",
+        "name": "Takehiro Tomiyasu",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "Thomas Partey",
+          "position": "",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Nacho Monreal",
+          "position": "",
+          "period": "(14/15 - 19/20)"
+        },
+        {
+          "name": "S\u00e9bastien Squillaci",
+          "position": "",
+          "period": "(10/11 - 12/13)"
+        },
+        {
+          "name": "Mika\u00ebl Silvestre",
+          "position": "",
+          "period": "(08/09 - 09/10)"
+        },
+        {
+          "name": "Pascal Cygan",
+          "position": "",
+          "period": "(02/03 - 06/07)"
+        },
+        {
+          "name": "Gilles Grimandi",
+          "position": "",
+          "period": "(97/98 - 01/02)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "David Hillier",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/144028-1665067869.jpg?lm=1",
+        "name": "Leandro Trossard",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Nicolas P\u00e9p\u00e9",
+          "position": "",
+          "period": "(19/20 - 22/23)"
+        },
+        {
+          "name": "Bernd Leno",
+          "position": "Goalkeepers",
+          "period": "(18/19)"
+        },
+        {
+          "name": "Santi Cazorla",
+          "position": "",
+          "period": "(12/13 - 17/18)"
+        },
+        {
+          "name": "Jack Wilshere",
+          "position": "",
+          "period": "(08/09 - 11/12)"
+        },
+        {
+          "name": "Gilberto Silva",
+          "position": "",
+          "period": "(02/03 - 07/08)"
+        },
+        {
+          "name": "Junichi Inamoto",
+          "position": "",
+          "period": "(01/02)"
+        },
+        {
+          "name": "Stefan Malz",
+          "position": "",
+          "period": "(99/00 - 00/01)"
+        },
+        {
+          "name": "R\u00e9mi Garde",
+          "position": "",
+          "period": "(96/97 - 98/99)"
+        },
+        {
+          "name": "Chris Kiwomya",
+          "position": "",
+          "period": "(96/97)"
+        },
+        {
+          "name": "John Jensen",
+          "position": "",
+          "period": "(95/96)"
+        },
+        {
+          "name": "Jimmy Carter",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/102017-1682590896.jpg?lm=1",
+        "name": "Jorginho",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Nuno Tavares",
+          "position": "",
+          "period": "(21/22)"
+        },
+        {
+          "name": "Shkodran Mustafi",
+          "position": "",
+          "period": "(16/17 - 20/21)"
+        },
+        {
+          "name": "Mathieu Flamini",
+          "position": "",
+          "period": "(13/14 - 15/16)"
+        },
+        {
+          "name": "Johan Djourou",
+          "position": "",
+          "period": "(06/07 - 12/13)"
+        },
+        {
+          "name": "Philippe Senderos",
+          "position": "",
+          "period": "(03/04 - 05/06)"
+        },
+        {
+          "name": "Guillaume Warmuz",
+          "position": "Goalkeepers",
+          "period": "(02/03)"
+        },
+        {
+          "name": "Matthew Upson",
+          "position": "",
+          "period": "(97/98 - 02/03)"
+        },
+        {
+          "name": "Chris Kiwomya",
+          "position": "",
+          "period": "(95/96)"
+        },
+        {
+          "name": "Pal Lydersen",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/537598-1678468077.jpg?lm=1",
+        "name": "F\u00e1bio Vieira",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Calum Chambers",
+          "position": "",
+          "period": "(19/20 - 21/22)"
+        },
+        {
+          "name": "Calum Chambers",
+          "position": "",
+          "period": "(14/15 - 17/18)"
+        },
+        {
+          "name": "Lukasz Fabianski",
+          "position": "Goalkeepers",
+          "period": "(07/08 - 13/14)"
+        },
+        {
+          "name": "Mart Poom",
+          "position": "Goalkeepers",
+          "period": "(05/06 - 06/07)"
+        },
+        {
+          "name": "Jermaine Pennant",
+          "position": "",
+          "period": "(04/05)"
+        },
+        {
+          "name": "Jermaine Pennant",
+          "position": "",
+          "period": "(01/02 - 02/03)"
+        },
+        {
+          "name": "Tomas Danilevicius",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Lu\u00eds Boa Morte",
+          "position": "",
+          "period": "(97/98 - 99/00)"
+        },
+        {
+          "name": "Eddie McGoldrick",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Steve Morrow",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/381967-1678466372.jpg?lm=1",
+        "name": "Albert Sambi Lokonga",
+        "since": "21/22"
+      },
+      "history": [
+        {
+          "name": "David Luiz",
+          "position": "",
+          "period": "(19/20 - 20/21)"
+        },
+        {
+          "name": "Danny Welbeck",
+          "position": "",
+          "period": "(14/15 - 18/19)"
+        },
+        {
+          "name": "Nicklas Bendtner",
+          "position": "",
+          "period": "(13/14)"
+        },
+        {
+          "name": "Andrey Arshavin",
+          "position": "",
+          "period": "(08/09 - 12/13)"
+        },
+        {
+          "name": "Sol Campbell",
+          "position": "",
+          "period": "(01/02 - 05/06)"
+        },
+        {
+          "name": "Nelson Vivas",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Stephen Hughes",
+          "position": "",
+          "period": "(99/00)"
+        },
+        {
+          "name": "Alberto M\u00e9ndez",
+          "position": "",
+          "period": "(97/98 - 98/99)"
+        },
+        {
+          "name": "Paul Dickov",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Ray Parlour",
+          "position": "",
+          "period": "(93/94 - 94/95)"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/340325-1667418642.jpg?lm=1",
+        "name": "Reiss Nelson",
+        "since": "19/20"
+      },
+      "history": [
+        {
+          "name": "H\u00e9ctor Beller\u00edn",
+          "position": "",
+          "period": "(15/16 - 17/18)"
+        },
+        {
+          "name": "Abou Diaby",
+          "position": "",
+          "period": "(13/14 - 14/15)"
+        },
+        {
+          "name": "Vito Mannone",
+          "position": "Goalkeepers",
+          "period": "(08/09 - 12/13)"
+        },
+        {
+          "name": "Vito Mannone",
+          "position": "Goalkeepers",
+          "period": "(06/07)"
+        },
+        {
+          "name": "Manuel Almunia",
+          "position": "Goalkeepers",
+          "period": "(04/05 - 07/08)"
+        },
+        {
+          "name": "Rami Shaaban",
+          "position": "Goalkeepers",
+          "period": "(02/03 - 03/04)"
+        },
+        {
+          "name": "Richard Wright",
+          "position": "Goalkeepers",
+          "period": "(01/02)"
+        },
+        {
+          "name": "John Lukic",
+          "position": "Goalkeepers",
+          "period": "(96/97 - 00/01)"
+        },
+        {
+          "name": "Paul Dickov",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Mark Flatts",
+          "position": "",
+          "period": "(93/94)"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/160438-1682688163.jpg?lm=1",
+        "name": "Mohamed Elneny",
+        "since": "20/21"
+      },
+      "history": [
+        {
+          "name": "Carl Jenkinson",
+          "position": "",
+          "period": "(18/19)"
+        },
+        {
+          "name": "Carl Jenkinson",
+          "position": "",
+          "period": "(11/12 - 16/17)"
+        },
+        {
+          "name": "Kerrea Gilbert",
+          "position": "",
+          "period": "(07/08)"
+        },
+        {
+          "name": "Emmanuel Adebayor",
+          "position": "",
+          "period": "(05/06 - 08/09)"
+        },
+        {
+          "name": "Nwankwo Kanu",
+          "position": "",
+          "period": "(98/99 - 03/04)"
+        },
+        {
+          "name": "Scott Marshall",
+          "position": "",
+          "period": "(95/96 - 97/98)"
+        },
+        {
+          "name": "Mark Flatts",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Neil Heaney",
+          "position": "",
+          "period": "(93/94)"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/503770-1672838317.jpg?lm=1",
+        "name": "Folarin Balogun",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "Folarin Balogun",
+          "position": "",
+          "period": "(21/22)"
+        },
+        {
+          "name": "Emiliano Mart\u00ednez",
+          "position": "Goalkeepers",
+          "period": "(18/19 - 20/21)"
+        },
+        {
+          "name": "Emiliano Mart\u00ednez",
+          "position": "Goalkeepers",
+          "period": "(14/15 - 16/17)"
+        },
+        {
+          "name": "Emmanuel Frimpong",
+          "position": "",
+          "period": "(11/12 - 13/14)"
+        },
+        {
+          "name": "Abu Ogogo",
+          "position": "",
+          "period": "(08/09)"
+        },
+        {
+          "name": "Nicklas Bendtner",
+          "position": "",
+          "period": "(07/08 - 08/09)"
+        },
+        {
+          "name": "Quincy Owusu-Abeyie",
+          "position": "",
+          "period": "(05/06)"
+        },
+        {
+          "name": "Igors Stepanovs",
+          "position": "",
+          "period": "(00/01 - 02/03)"
+        },
+        {
+          "name": "Moritz Volz",
+          "position": "",
+          "period": "(99/00)"
+        },
+        {
+          "name": "Fabi\u00e1n Caballero",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Vince Bartram",
+          "position": "Goalkeepers",
+          "period": "(97/98)"
+        },
+        {
+          "name": "Lee Harper",
+          "position": "Goalkeepers",
+          "period": "(94/95 - 96/97)"
+        },
+        {
+          "name": "Jim Will",
+          "position": "Goalkeepers",
+          "period": "(93/94)"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/668268-1679677375.jpg?lm=1",
+        "name": "Marquinhos",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Konstantinos Mavropanos",
+          "position": "",
+          "period": "(17/18 - 19/20)"
+        },
+        {
+          "name": "Serge Gnabry",
+          "position": "",
+          "period": "(14/15 - 15/16)"
+        },
+        {
+          "name": "Gervinho",
+          "position": "",
+          "period": "(11/12 - 12/13)"
+        },
+        {
+          "name": "Emmanuel Ebou\u00e9",
+          "position": "",
+          "period": "(04/05 - 10/11)"
+        },
+        {
+          "name": "Stathis Tavlaridis",
+          "position": "",
+          "period": "(01/02 - 03/04)"
+        },
+        {
+          "name": "Christopher Wreh",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Kaba Diawara",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Paul Shaw",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Scott Marshall",
+          "position": "",
+          "period": "(94/95)"
+        },
+        {
+          "name": "Paul Dickov",
+          "position": "",
+          "period": "(93/94)"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/309400-1683903902.jpg?lm=1",
+        "name": "Kai Havertz",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "Matt\u00e9o Guendouzi",
+          "position": "",
+          "period": "(18/19 - 19/20)"
+        },
+        {
+          "name": "Granit Xhaka",
+          "position": "",
+          "period": "(16/17 - 17/18)"
+        },
+        {
+          "name": "Kim K\u00e4llstr\u00f6m",
+          "position": "",
+          "period": "(13/14)"
+        },
+        {
+          "name": "Marouane Chamakh",
+          "position": "",
+          "period": "(10/11 - 12/13)"
+        },
+        {
+          "name": "Sebastian Larsson",
+          "position": "",
+          "period": "(05/06)"
+        },
+        {
+          "name": "Moritz Volz",
+          "position": "",
+          "period": "(02/03)"
+        },
+        {
+          "name": "Ashley Cole",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Moritz Volz",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Jermaine Pennant",
+          "position": "",
+          "period": "(98/99 - 00/01)"
+        },
+        {
+          "name": "Stephen Hughes",
+          "position": "",
+          "period": "(94/95)"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/425306-1682689678.jpg?lm=1",
+        "name": "Matt Turner",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Eddie Nketiah",
+          "position": "",
+          "period": "(19/20 - 21/22)"
+        },
+        {
+          "name": "Ainsley Maitland-Niles",
+          "position": "",
+          "period": "(17/18)"
+        },
+        {
+          "name": "Chu-young Park",
+          "position": "",
+          "period": "(13/14)"
+        },
+        {
+          "name": "Armand Traor\u00e9",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Ryo Miyaichi",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Yossi Benayoun",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Armand Traor\u00e9",
+          "position": "",
+          "period": "(09/10)"
+        },
+        {
+          "name": "Armand Traor\u00e9",
+          "position": "",
+          "period": "(06/07 - 07/08)"
+        },
+        {
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re",
+          "position": "",
+          "period": "(06/07)"
+        },
+        {
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re",
+          "position": "",
+          "period": "(01/02 - 04/05)"
+        },
+        {
+          "name": "Paolo Vernazza",
+          "position": "",
+          "period": "(98/99 - 00/01)"
+        },
+        {
+          "name": "Tommy Black",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Gavin McGowan",
+          "position": "",
+          "period": "(95/96 - 97/98)"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/493513-1662665787.jpg?lm=1",
+        "name": "Karl Hein",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Sead Kolasinac",
+          "position": "",
+          "period": "(17/18 - 21/22)"
+        },
+        {
+          "name": "Jeff Reine-Ad\u00e9la\u00efde",
+          "position": "",
+          "period": "(16/17)"
+        },
+        {
+          "name": "Ryo Miyaichi",
+          "position": "",
+          "period": "(13/14)"
+        },
+        {
+          "name": "Ryo Miyaichi",
+          "position": "",
+          "period": "(11/12)"
+        },
+        {
+          "name": "Sol Campbell",
+          "position": "",
+          "period": "(09/10)"
+        },
+        {
+          "name": "Gavin Hoyte",
+          "position": "",
+          "period": "(07/08)"
+        },
+        {
+          "name": "Justin Hoyte",
+          "position": "",
+          "period": "(04/05 - 08/09)"
+        },
+        {
+          "name": "J\u00e9r\u00e9mie Aliadi\u00e8re",
+          "position": "",
+          "period": "(01/02)"
+        },
+        {
+          "name": "Sebastian Sv\u00e4rd",
+          "position": "",
+          "period": "(00/01 - 02/03)"
+        },
+        {
+          "name": "Stuart Taylor",
+          "position": "Goalkeepers",
+          "period": "(98/99 - 00/01)"
+        },
+        {
+          "name": "Ashley Cole",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Matthew Rose",
+          "position": "",
+          "period": "(95/96 - 96/97)"
+        },
+        {
+          "name": "Chris Kiwomya",
+          "position": "",
+          "period": "(94/95)"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/503769-1673651811.jpg?lm=1",
+        "name": "Arthur Okonkwo",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "Arthur Okonkwo",
+          "position": "Goalkeepers",
+          "period": "(21/22)"
+        },
+        {
+          "name": "Mathew Ryan",
+          "position": "Goalkeepers",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Matt Macey",
+          "position": "Goalkeepers",
+          "period": "(19/20 - 20/21)"
+        },
+        {
+          "name": "Petr Cech",
+          "position": "Goalkeepers",
+          "period": "(15/16 - 17/18)"
+        },
+        {
+          "name": "Matthew Connolly",
+          "position": "",
+          "period": "(06/07)"
+        },
+        {
+          "name": "Nicklas Bendtner",
+          "position": "",
+          "period": "(05/06)"
+        },
+        {
+          "name": "Graham Stack",
+          "position": "Goalkeepers",
+          "period": "(03/04)"
+        },
+        {
+          "name": "Tommy Black",
+          "position": "",
+          "period": "(99/00)"
+        },
+        {
+          "name": "Greg Lincoln",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Gavin McGowan",
+          "position": "",
+          "period": "(94/95)"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/203853-1688658681.jpg?lm=1",
+        "name": "Oleksandr Zinchenko",
+        "since": "22/23"
+      },
+      "history": [
+        {
+          "name": "Gabriel Martinelli",
+          "position": "",
+          "period": "(19/20 - 21/22)"
+        },
+        {
+          "name": "Mohamed Elneny",
+          "position": "",
+          "period": "(15/16 - 17/18)"
+        },
+        {
+          "name": "Gedion Zelalem",
+          "position": "",
+          "period": "(14/15)"
+        },
+        {
+          "name": "Francis Coquelin",
+          "position": "",
+          "period": "(08/09 - 09/10)"
+        },
+        {
+          "name": "Patrick Cregg",
+          "position": "",
+          "period": "(05/06)"
+        },
+        {
+          "name": "Johan Djourou",
+          "position": "",
+          "period": "(04/05)"
+        },
+        {
+          "name": "Moritz Volz",
+          "position": "",
+          "period": "(00/01)"
+        },
+        {
+          "name": "Graham Barrett",
+          "position": "",
+          "period": "(98/99 - 99/00)"
+        },
+        {
+          "name": "\u00d6mer Riza",
+          "position": "",
+          "period": "(98/99)"
+        },
+        {
+          "name": "Paolo Vernazza",
+          "position": "",
+          "period": "(97/98)"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "current": {
+        "avatar": "https://img.a.transfermarkt.technology/portrait/medium/357662-1687962936.jpg?lm=1",
+        "name": "Declan Rice",
+        "since": "23/24"
+      },
+      "history": [
+        {
+          "name": "Mauro Bandeira",
+          "position": "",
+          "period": "(22/23)"
+        },
+        {
+          "name": "Ben Cottrell",
+          "position": "",
+          "period": "(20/21)"
+        },
+        {
+          "name": "Robbie Burton",
+          "position": "",
+          "period": "(19/20)"
+        },
+        {
+          "name": "Josh Dasilva",
+          "position": "",
+          "period": "(16/17)"
+        },
+        {
+          "name": "Jay Emmanuel-Thomas",
+          "position": "",
+          "period": "(10/11)"
+        },
+        {
+          "name": "Gavin Hoyte",
+          "position": "",
+          "period": "(08/09)"
+        },
+        {
+          "name": "Joe O'Cearuill",
+          "position": "",
+          "period": "(06/07)"
+        },
+        {
+          "name": "Arturo Lupoli",
+          "position": "",
+          "period": "(05/06)"
+        },
+        {
+          "name": "Chris Wright",
+          "position": "Goalkeepers",
+          "period": "(04/05)"
+        },
+        {
+          "name": "Craig Holloway",
+          "position": "Goalkeepers",
+          "period": "(02/03)"
+        }
+      ]
+    }
+  ]
+}
