@@ -32,7 +32,6 @@ players = {
   'arsenal': []
 }
 
-# count = 0
 for tr in trs:
   number = tr.find('td', attrs={'class': 'zentriert'}).text
   print(number)
@@ -64,8 +63,8 @@ for tr in trs:
       'period': '',
     }
     
-    print(json.dumps(hpd_children[i], indent=2))
-    print(hpd_children[i + 1])
+    # print(json.dumps(hpd_children[i], indent=2))
+    # print(hpd_children[i + 1])
     
     if len(hpd_children[i]['children']) >= 2:
       # player['name'] = unidecode(hpd_children[i]['children'][0]['children'][0])
@@ -77,7 +76,6 @@ for tr in trs:
       player['name'] = hpd_children[i]['children'][0]['children'][0]
       player['period'] = hpd_children[i + 1].strip().replace(',', '')
       
-    
     history.append(player)
   
   players['arsenal'].append({
@@ -86,9 +84,55 @@ for tr in trs:
     'history': history
   })
   
-  # count += 1
-  # if (count == 1):
-  #   break
+
+# ignore non-current players for now
+additional_trs = table.find_all('tr', attrs={'class': 'bg_grey'})
+
+for tr in additional_trs:
+  number = tr.find('td', attrs={'class': 'zentriert'}).text
+  print(number)
+  
+  current = {
+    'avatar': '',
+    'name': '',
+    'since': '',
+  }
+  
+  # history players
+  history = []
+  history_players_html = tr.find('div', attrs={'style': 'padding-left: 6px;padding-top: 3px; line-height:1.6; padding-right: 6px'})
+  if history_players_html is not None:
+    history_players_dict = soup_to_json(history_players_html)
+    # print(history_players_dict['children'])
+    hpd_children = history_players_dict['children']
+    for i in range(0, len(hpd_children), 2):
+      # if item is a dict
+      player = {
+        'name': '',
+        'position': '',
+        'period': '',
+      }
+      
+      # print(json.dumps(hpd_children[i], indent=2))
+      # print(hpd_children[i + 1])
+      
+      if len(hpd_children[i]['children']) >= 2:
+        # player['name'] = unidecode(hpd_children[i]['children'][0]['children'][0])
+        player['name'] = hpd_children[i]['children'][0]['children'][0]
+        player['position'] = hpd_children[i]['children'][1]['attrs']['title']
+        player['period'] = hpd_children[i + 1].strip().replace(',', '')
+      elif len(hpd_children[i]['children']) == 1:
+        # player['name'] = unidecode(hpd_children[i]['children'][0]['children'][0])
+        player['name'] = hpd_children[i]['children'][0]['children'][0]
+        player['period'] = hpd_children[i + 1].strip().replace(',', '')
+        
+      history.append(player)
+    
+  players['arsenal'].append({
+    'number': int(number),
+    'current': current,
+    'history': history
+  })
   
 player_json = json.dumps(players, indent=2)
 # print(player_json)

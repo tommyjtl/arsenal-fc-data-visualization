@@ -29,7 +29,10 @@ def extract_seasons(start, end):
   
   for year in range(start_year, end_year + 1):
     # append 0 to the year if the string is only one character long
-    seasons.append(str(year) + '/' + str(year + 1)[-2:])
+    seasons.append(('0' + str(year) if len(str(year)) == 1 else str(year)) + 
+                   '/' + 
+                   ('0' + str(year + 1)[-2:] if len(str(year + 1)[-2:]) == 1 else str(year + 1)[-2:])
+    )
   
   if end_year < start_year:
     for year in range(start_year, 100):
@@ -47,29 +50,31 @@ def extract_seasons(start, end):
 
   return seasons
 
-with open('../../data/players_by_number.json') as f:
+with open('../data/players_by_number.json') as f:
   raw_players = json.load(f)
   
 for number in raw_players['arsenal']:
-  periods = [number['current']['since'], as_of_now]
+  if number['current']['since'] != '':
+    periods = [number['current']['since'], as_of_now]
+    # print(number['current']['name'], periods)
   
-  if number['current']['name'] not in players:
-    # print(number['number'], number['current']['name'], periods)
-    players[number['current']['name']] = []
-    players[number['current']['name']].append(
-      {
-        'number': number['number'],
-        'periods': periods
-      }
-    )
-  elif number['current']['name'] in players:
-    # print(number['number'], number['current']['name'], periods)
-    players[number['current']['name']].append(
-      {
-        'number': number['number'],
-        'periods': periods
-      }
-    )
+    if number['current']['name'] not in players:
+      # print(number['number'], number['current']['name'], periods)
+      players[number['current']['name']] = []
+      players[number['current']['name']].append(
+        {
+          'number': number['number'],
+          'periods': periods
+        }
+      )
+    elif number['current']['name'] in players:
+      # print(number['number'], number['current']['name'], periods)
+      players[number['current']['name']].append(
+        {
+          'number': number['number'],
+          'periods': periods
+        }
+      )
   
   for h in number['history']:
     # print(h)
@@ -92,6 +97,7 @@ for number in raw_players['arsenal']:
       })
   
 print('total players:', len(players))
+# print(json.dumps(players, indent=2))
 
 players_output = {}
 
@@ -100,14 +106,12 @@ for player in players.keys():
   # print(player, end = ' ')
   periods = []
   for i in players[player]:
+    # print(player, i['periods'])
     periods += extract_seasons(
       i['periods'][0], 
       i['periods'][1]
     )
-    # print(extract_seasons(
-    #   i['periods'][0], 
-    #   i['periods'][1]
-    # ))
+    
   players_output[player] = periods
   
 longest_season_played = {
@@ -122,6 +126,10 @@ for i in players_output.keys():
 print('longest season played:', longest_season_played)
 
 # save players to file
-with open('output.json', 'w') as f:
+with open('../data/players_by_season.json', 'w') as f:
   json.dump(players_output, f, indent=2)
+  
+players_seasons = {}
+with open('../data/players_by_season.json') as f:
+  players_seasons = json.load(f)
   
